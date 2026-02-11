@@ -42,7 +42,7 @@ Ranked by number of reviews in the last 12 months (used as a proxy for demand an
 | 9    | West Village    | 1,735         |
 | 10   | Upper East Side | 1,696         |
 
-![Most Attractive Neighborhoods in Manhattan](images/top_neighborhoods.png)
+![Most Attractive Neighborhoods in Manhattan](top_neighborhoods.png)
 
 ---
 
@@ -50,9 +50,9 @@ Ranked by number of reviews in the last 12 months (used as a proxy for demand an
 - **1-bedroom properties** dominate demand in **9 out of 10** top neighborhoods.
 - **Midtown** is the exception — studios perform best there.
 
-![Most Popular Property Sizes in Manhattan](images/property_sizes_manhattan.png)
+![Most Popular Property Sizes in Manhattan](property_sizes_manhattan.png)
 
-![Top 10 Neighborhood Popular Property Sizes](images/property_sizes_top10.png)
+![Top 10 Neighborhood Popular Property Sizes](property_sizes_top10.png)
 
 ---
 
@@ -61,9 +61,9 @@ Ranked by number of reviews in the last 12 months (used as a proxy for demand an
 - Projected annual revenue at similar occupancy: approximately **$359,280**.
 - Top properties are concentrated in Midtown, Hells Kitchen, Lower East Side, Chelsea, East Village, and Upper West Side.
 
-![Top Earning Short-Term Rental Properties by Neighborhood](images/top_earners_by_neighborhood.png)
+![Top Earning Short-Term Rental Properties by Neighborhood](top_earners_by_neighborhood.png)
 
-![Projected Yearly Revenue for Top 10 Neighborhoods](images/projected_yearly_revenue.png)
+![Projected Yearly Revenue for Top 10 Neighborhoods](projected_yearly_revenue.png)
 
 ---
 
